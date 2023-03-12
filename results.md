@@ -5,7 +5,6 @@ The results had resulted in this.
 
 # When using the more harder version of just linking a js file to the HTML file, it was more complicated and many bugs had to be fixed.
 # Although, when using the SCRIPT tag it was more easier and not that many problems.
-#
 
 # EXPERIMENT CONDUCTED MARCH 9 - MARCH 11 2023
 # 22:06 TIMESTAMP UNIX
